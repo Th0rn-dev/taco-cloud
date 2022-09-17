@@ -1,0 +1,6 @@
+# spring.thymeleaf.cache=false
+
+spring:
+    datasource: 
+        generate_unique_name: false
+        name: tacocloud
